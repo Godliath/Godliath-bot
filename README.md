@@ -1,2 +1,0 @@
-# Godliath-bot
-bot
